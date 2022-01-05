@@ -22,4 +22,5 @@ There are a total of 2 components, one for the application layout (so I dont hav
 
 > Note: You can request a API Key over [here](https://developers.themoviedb.org/3/getting-started/introduction) or send me an email the key has to be Version 4, otherwhise the application **wont** work 
 <br/>
+
 > Note 2: This application is built using php 8.0 and won't work on 7.3
