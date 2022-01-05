@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small hack for not showing the modal on page load */
+[x-cloak] { display: none }
